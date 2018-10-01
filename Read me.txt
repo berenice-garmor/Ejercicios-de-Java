@@ -1,0 +1,18 @@
+-------READ ME-------
+
+*Descargar WAMPSERVER 
+*Click derecho y ejecutar como administrador 
+*Podemos apreciar la versión de los
+programas a instalar, le damos a siguiente, aceptamos el contrato
+y seleccionamos la ruta donde deseamos guardar las carpetas.
+*Hacemos click en siguiente e instalamos. Una vez completado el 
+proceso de instalación, nos pedirá el .exe del navegador que queramos
+poner por defecto, en este caso seleccionamos Chrome.
+*Nos pide el servidor SMTP y el email que usará php en el caso de tener 
+que usar cierta función, en este caso dejaremos todas las opciones por defecto.
+*Encender wamp haciendo click sobre el notaras que se pondra color verde
+
+EN NETBEANS
+*Se tiene que agragar la clase de "com.mysql.jdbc.Driver"
+y cambiar el local host (esta comentado en el codigo).
+---SUERTE---
